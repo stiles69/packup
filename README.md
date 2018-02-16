@@ -1,3 +1,4 @@
+![Image of Stiles](https://storage.googleapis.com/stiles-images/StilesLogo.png)
 # packup.sh
 packup.sh is a simple script that will take every file in the
 current directory, and any subdirectory, and pack them into
